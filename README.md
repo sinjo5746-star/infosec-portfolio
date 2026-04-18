@@ -27,9 +27,9 @@ Network (TCP/IP, HTTP 구조 이해)
 - [개념](./infosec-portfolio/vulnerability/02.XSS/README.md)
 - [DVWA실습](./infosec-portfolio/vulnerability/02.XSS/DVWA-XSS.md)
 - [실습 보고서](./infosec-portfolio/vulnerability/02.XSS/XSS-report.md)
-### Command Injection [폴](./infosec-portfolio/vulnerability/03.command-injection)
+### Command Injection [폴더](./infosec-portfolio/vulnerability/03.command-injection)
 - [개념](./infosec-portfolio/vulnerability/03.command-injection/README.md)
-- [Command Injection](./infosec-portfolio/vulnerability/03.command-infection/DVWA-command.md)
+- [Command Injection실습](./infosec-portfolio/vulnerability/03.command-infection/DVWA-command.md)
 - [실습 보고서](./infosec-portfolio/vulnerability/03.command-injection/command-report.md)
 
 - ## 🎯 목표
