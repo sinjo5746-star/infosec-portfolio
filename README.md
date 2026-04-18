@@ -15,15 +15,15 @@ Network (TCP/IP, HTTP 구조 이해)
 - Command Injection
 
 ## 🔍 취약점 분석
-- SQL Injection [SQL Injection](./infosec-portfolio/Vulnerability/SQLi/DVWA-SQLi.md)
-- XSS [XSS](./infosec-portfolio/Vulnerability/XSS/DVWA-XSS.md)
-- Command Injection [Command Injection](./infosec-portfolio/Vulnerability/Command-Injection/DVWA-Command.md)
+- SQL Injection [SQL Injection](./infosec-portfolio/vulnerability/01.SQLi/DVWA-SQLi.md)
+- XSS [XSS](./infosec-portfolio/vulnerability/02.XSS/DVWA-XSS.md)
+- Command Injection [Command Injection](./infosec-portfolio/vulnerability/03.command-infection/DVWA-command.md)
 
 - ## 🎯 목표
 보안관제 및 침해대응 직무를 목표로,
 웹 취약점에 대한 이해와 함께 공격 흐름을 분석하고 대응할 수 있는 역량을 키우고 있습니다..
 
 ## 📚 study for jobs
-- network [networkpart](./infosec-portfolio/study/network-part.md)
+- network [networkpart](./infosec-portfolio/study/network.md)
 - linux [linux](./infosec-portfolio/study/linux.md)
   
